@@ -10,11 +10,11 @@ statusFontName	Dialog
 statusFontSize	15
 dictionaryURL1	https://translate.google.com/?ie=UTF-8&sl=zh-CN&tl=en&text=###&op=translate
 wordEncodingURL1	UTF-8
-openAutomaticallyURL1	1
+openAutomaticallyURL1	0
 dictionaryURL2	https://glosbe.com/zh/en/###
 wordEncodingURL2	UTF-8
 openAutomaticallyURL2	0
-dictionaryURL3	
+dictionaryURL3	https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=1&wdqb=###
 wordEncodingURL3	UTF-8
 openAutomaticallyURL3	0
 exportTemplate	$w\t$t\t$s\t$r\t$a\t$k
