@@ -8,9 +8,9 @@ fontName	Dialog
 fontSize	30
 statusFontName	Dialog
 statusFontSize	15
-dictionaryURL1	https://translate.google.com/?ie=UTF-8&sl=zh-CN&tl=en&text=###&op=translate
+dictionaryURL1	trans | -no-ansi | zh:en | ###
 wordEncodingURL1	UTF-8
-openAutomaticallyURL1	0
+openAutomaticallyURL1	1
 dictionaryURL2	https://glosbe.com/zh/en/###
 wordEncodingURL2	UTF-8
 openAutomaticallyURL2	0
