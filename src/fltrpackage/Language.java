@@ -34,6 +34,7 @@ import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
+import java.net.URI;
 import java.net.URL;
 import java.net.URLEncoder;
 import java.util.Hashtable;
@@ -261,7 +262,8 @@ public class Language {
 			return "";
 		}
 		try {
-			URL url = new URL(u);
+			URI uri = URI.create(u);
+			URL url = uri.toURL();
 			return Utilities.limitStringLeft(25, url.getHost());
 		} catch (Exception ex) {
 			return "";

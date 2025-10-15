@@ -85,7 +85,7 @@ public class TextPanelPopupMenu extends JPopupMenu {
 					host = " (" + host + ")";
 				}
 				createAndAddMenuItem(submenu, String.valueOf(i) + host + " …", "dict", "word", w, "link",
-						new Integer(i));
+					Integer.valueOf(i));
 				count++;
 			}
 		}
