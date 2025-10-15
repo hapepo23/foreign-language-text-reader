@@ -1,0 +1,22 @@
+FLTRLANGPREFS
+charSubstitutions	´='|`='|’='|‘='|′='|‵='
+wordCharRegExp	\u4E00-\u9FFF\uF900-\uFAFF
+makeCharacterWord	0
+removeSpaces	1
+rightToLeft	0
+fontName	Dialog
+fontSize	30
+statusFontName	Dialog
+statusFontSize	15
+dictionaryURL1	https://translate.google.com/?ie=UTF-8&sl=zh&tl=en&text=###
+wordEncodingURL1	UTF-8
+openAutomaticallyURL1	1
+dictionaryURL2	https://glosbe.com/zh/en/###
+wordEncodingURL2	UTF-8
+openAutomaticallyURL2	0
+dictionaryURL3	
+wordEncodingURL3	UTF-8
+openAutomaticallyURL3	0
+exportTemplate	$w\t$t\t$s\t$r\t$a\t$k
+exportStatuses	1|2|3|4
+doExport	1

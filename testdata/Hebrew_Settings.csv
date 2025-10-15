@@ -1,0 +1,22 @@
+FLTRLANGPREFS
+charSubstitutions	´='|`='|’='|‘='|′='|‵='
+wordCharRegExp	\u0590-\u05FF
+makeCharacterWord	0
+removeSpaces	0
+rightToLeft	1
+fontName	Dialog
+fontSize	30
+statusFontName	Dialog
+statusFontSize	15
+dictionaryURL1	https://translate.google.com/?ie=UTF-8&sl=iw&tl=en&text=###
+wordEncodingURL1	UTF-8
+openAutomaticallyURL1	1
+dictionaryURL2	https://glosbe.com/iw/en/###
+wordEncodingURL2	UTF-8
+openAutomaticallyURL2	0
+dictionaryURL3	
+wordEncodingURL3	UTF-8
+openAutomaticallyURL3	0
+exportTemplate	$w\t$t\t$s\t$r\t$a\t$k
+exportStatuses	1|2|3|4
+doExport	1
