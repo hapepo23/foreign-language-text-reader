@@ -10,7 +10,7 @@ statusFontName	Dialog
 statusFontSize	15
 dictionaryURL1	trans | -no-ansi | zh:en | ###
 wordEncodingURL1	UTF-8
-openAutomaticallyURL1	1
+openAutomaticallyURL1	0
 dictionaryURL2	https://glosbe.com/zh/en/###
 wordEncodingURL2	UTF-8
 openAutomaticallyURL2	0
