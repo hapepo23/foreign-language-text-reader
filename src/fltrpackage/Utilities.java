@@ -3,6 +3,7 @@
  * Foreign Language Text Reader (FLTR) - A Tool for Language Learning.
  *
  * Copyright © 2012-2021 FLTR Developers et al.
+ * Copyright © 2025 hapepo23 @ GitHub
  *
  * Permission is hereby granted, free of charge, to any person obtaining a
  * copy of this software and associated documentation files (the
@@ -557,7 +558,7 @@ public class Utilities {
 				+ "Code license: MIT License. Please read the full text \n"
 				+ "at [https://opensource.org/licenses/MIT].\n\n" + Constants.SHORT_NAME
 				+ " is inspired from LingQ [https://lingq.com] and\n" + "contains code from 'Learning With Texts'\n"
-				+ "[https://sourceforge.net/projects/learning-with-texts/].\n" + Constants.SHORT_NAME
+				+ "[https://github.com/hapepo23/learning-with-texts].\n" + Constants.SHORT_NAME
 				+ " uses MigLayout [http://miglayout.com].\n\n" + "Currently used Java Runtime Engine: Version "
 				+ System.getProperty("java.version") + ".", "About " + Constants.SHORT_NAME, JOptionPane.YES_NO_OPTION,
 				JOptionPane.INFORMATION_MESSAGE, Utilities.getIcon(), options, options[0]);
@@ -568,7 +569,7 @@ public class Utilities {
 			Utilities.openURLInDefaultBrowser("https://opensource.org/licenses/MIT");
 			Utilities.showAboutDialog();
 		} else if (result == 1) {
-			Utilities.openURLInDefaultBrowser("https://foreign-language-text-reader.sourceforge.io");
+			Utilities.openURLInDefaultBrowser("https://github.com/hapepo23/foreign-language-text-reader/blob/master/FLTR_Documentation.pdf");
 			Utilities.showAboutDialog();
 		}
 	}

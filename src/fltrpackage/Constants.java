@@ -3,6 +3,7 @@
  * Foreign Language Text Reader (FLTR) - A Tool for Language Learning.
  *
  * Copyright © 2012-2021 FLTR Developers et al.
+ * Copyright © 2025 hapepo23 @ GitHub
  *
  * Permission is hereby granted, free of charge, to any person obtaining a
  * copy of this software and associated documentation files (the
@@ -29,13 +30,13 @@ package fltrpackage;
 
 public class Constants {
 
-	public static final String SHORT_VERSION = "1.4.0";
-	public static final String VERSION = Constants.SHORT_VERSION + " (2021-06-14)";
+	public static final String SHORT_VERSION = "1.4.1";
+	public static final String VERSION = Constants.SHORT_VERSION + " (2025-10-17)";
 
 	public static final String SHORT_NAME = "FLTR";
 	public static final String LONG_NAME = "Foreign Language Text Reader";
-	public static final String WEBSITE = "https://sourceforge.net/projects/foreign-language-text-reader/";
-	public static final String COPYRIGHT = "Copyright © 2012-2021 " + Constants.SHORT_NAME + " Developers et al.";
+	public static final String WEBSITE = "https://github.com/hapepo23/foreign-language-text-reader";
+	public static final String COPYRIGHT = "Copyright © 2012-2021 " + Constants.SHORT_NAME + " Developers et al.;\n© 2025 hapepo23 @ GitHub";
 
 	public static final String ICONPATH = "/fltrpackage/icon128.png";
 	public static final String HEADER_HTML_PATH = "/fltrpackage/_Header.htm";
