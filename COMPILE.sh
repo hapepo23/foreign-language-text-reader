@@ -13,7 +13,5 @@ echo "** Build jar **"
 jar cfmv FLTR.jar jar/MANIFEST.MF -C bin .
 echo "** Make executable **"
 chmod a+x FLTR.jar
-echo "** Cleanup **"
-rm -R bin
 echo OK, waiting...
 read X
