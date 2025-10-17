@@ -1,8 +1,12 @@
 # FLTR: Foreign Language Text Reader
 
-Version 1.4.0 (2021-06-14). 
+Version 1.4.1 (2025-10-17). 
 
-2025-10-15: The source code has been corrected so that it compiles with Java 21 without warnings. The test data has been corrected (dictionary links, etc.). The .fltrprefs file is attached here and must be placed in the user's home directory if desired. The Windows EXE file is the original from 2021.
+Changes in version 1.4.1: The source code has been corrected so that it compiles with Java 21 without warnings. The test data has been corrected (dictionary links, etc.). The .fltrprefs file is attached here and must be placed in the user's home directory if desired. The Windows EXE has been removed. The documentation has been updated.
+
+Copyright © 2012-2021 FLTR Developers et al.
+
+Copyright © 2025 hapepo23
 
 ![Screenshot](fltr_screenshot.png)
 
