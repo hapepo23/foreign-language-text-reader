@@ -1,6 +1,10 @@
 # FLTR: Foreign Language Text Reader
 
-Version 1.4.0 (2021-06-14)
+Version 1.4.0 (2021-06-14).
+
+The source code has been corrected so that it can be compiled with Java 21 without warnings (2025-10-16).
+
+The Windows EXE file is the original from 2021.
 
 ![Screenshot](fltr_screenshot.png)
 
@@ -12,7 +16,7 @@ While reading, you look up unknown words in web dictionaries (online) or locally
 
 ## Setup Instructions
 
-### Installation
+### Installation (Linux)
 
 Compile the source code and create JAR:
    ```
