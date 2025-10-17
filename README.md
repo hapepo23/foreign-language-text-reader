@@ -4,9 +4,7 @@ Version 1.4.1 (2025-10-17).
 
 Changes in version 1.4.1: The source code has been corrected so that it compiles with Java 21 without warnings. The test data has been corrected (dictionary links, etc.). The .fltrprefs file is attached here and must be placed in the user's home directory if desired. The Windows EXE has been removed. The documentation has been updated.
 
-Copyright © 2012-2021 FLTR Developers et al.
-
-Copyright © 2025 hapepo23
+Copyright © 2012-2021 FLTR Developers et al.; © 2025 hapepo23
 
 ![Screenshot](fltr_screenshot.png)
 
@@ -18,14 +16,19 @@ While reading, you look up unknown words in web dictionaries (online) or locally
 
 ## Setup Instructions
 
-### Installation (Linux)
+### Installation from the sources (Linux)
 
-Compile the source code and create JAR:
+You'll need an installed JDK (Java Development Kit).
+
+Compile the source code and create the JAR "fltr.jar":
+
    ```
    ./COMPILE.sh
    ```
 
 ### Running the Application
+
+You'll need an installed JRE (Java Runtime Engine) and the file "fltr.jar".
 
    ```
    java -jar fltr.jar
