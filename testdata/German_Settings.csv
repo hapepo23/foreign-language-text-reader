@@ -8,13 +8,13 @@ fontName	Dialog
 fontSize	20
 statusFontName	Dialog
 statusFontSize	15
-dictionaryURL1	https://translate.google.com/?ie=UTF-8&sl=de&tl=en&text=###
+dictionaryURL1	https://translate.google.com/?ie=UTF-8&sl=de&tl=en&text=###&op=translate
 wordEncodingURL1	UTF-8
 openAutomaticallyURL1	1
 dictionaryURL2	https://glosbe.com/de/en/###
 wordEncodingURL2	UTF-8
 openAutomaticallyURL2	0
-dictionaryURL3	
+dictionaryURL3	https://dict.leo.org/german-english/###
 wordEncodingURL3	UTF-8
 openAutomaticallyURL3	0
 exportTemplate	$w\t$t\t$s\t$r\t$a\t$k

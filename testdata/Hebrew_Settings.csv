@@ -8,7 +8,7 @@ fontName	Dialog
 fontSize	30
 statusFontName	Dialog
 statusFontSize	15
-dictionaryURL1	https://translate.google.com/?ie=UTF-8&sl=iw&tl=en&text=###
+dictionaryURL1	https://translate.google.com/?ie=UTF-8&sl=iw&tl=en&text=###&op=translate
 wordEncodingURL1	UTF-8
 openAutomaticallyURL1	1
 dictionaryURL2	https://glosbe.com/iw/en/###

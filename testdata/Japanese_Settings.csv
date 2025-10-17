@@ -4,17 +4,17 @@ wordCharRegExp	\u4E00-\u9FFF\uF900-\uFAFF\u3040-\u30FF\u31F0-\u31FF
 makeCharacterWord	1
 removeSpaces	1
 rightToLeft	0
-fontName	Dialog
-fontSize	30
-statusFontName	Dialog
+fontName	Noto Sans CJK JP
+fontSize	25
+statusFontName	Noto Sans CJK JP
 statusFontSize	15
-dictionaryURL1	https://translate.google.com/?ie=UTF-8&sl=ja&tl=en&text=###
+dictionaryURL1	https://jisho.org/search/###
 wordEncodingURL1	UTF-8
 openAutomaticallyURL1	1
 dictionaryURL2	https://glosbe.com/ja/en/###
 wordEncodingURL2	UTF-8
 openAutomaticallyURL2	0
-dictionaryURL3	
+dictionaryURL3	https://translate.google.com/?ie=UTF-8&sl=ja&tl=en&text=###&op=translate
 wordEncodingURL3	UTF-8
 openAutomaticallyURL3	0
 exportTemplate	$w\t$t\t$s\t$r\t$a\t$k
