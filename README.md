@@ -35,3 +35,8 @@ You'll need an installed JRE (Java Runtime Engine) and the file "fltr.jar".
    ```
    java -jar fltr.jar
    ```
+
+## PLEASE READ MORE:
+
+- [FLTR Documentation](FLTR_Documentation.pdf)
+- [MIT License)](LICENSE)
