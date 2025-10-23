@@ -1,3 +1,5 @@
+![FLTR](icons/icon256.png)
+
 # FLTR: Foreign Language Text Reader
 
 Version 1.4.1 (2025-10-17). 
