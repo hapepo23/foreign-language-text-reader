@@ -2,7 +2,7 @@
 
 # FLTR: Foreign Language Text Reader
 
-Version 1.4.1 (2025-10-17). 
+## This is the Official FLTR Version 1.4.1 (October 17 2025)
 
 ![Screenshot](fltr_screenshot.png)
 
