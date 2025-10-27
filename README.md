@@ -34,7 +34,7 @@ You'll need an installed JRE (Java Runtime Engine) and the file "fltr.jar".
 
 ## Please read more:
 
-- [FLTR Documentation](FLTR_Documentation.pdf)
+- [FLTR Documentation](https://hapepo23.github.io/fltr/FLTR_Documentation.pdf)
 - [MIT License](LICENSE)
 
 Copyright © 2012-2021 FLTR Developers et al.; © 2025 hapepo23
