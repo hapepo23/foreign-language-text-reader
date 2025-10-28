@@ -37,4 +37,8 @@ You'll need an installed JRE (Java Runtime Engine) and the file "fltr.jar".
 - [FLTR Documentation](https://hapepo23.github.io/fltr/FLTR_Documentation.pdf)
 - [MIT License](LICENSE)
 
+## Download
+
+- [Latest releases](https://github.com/hapepo23/foreign-language-text-reader/releases)
+
 Copyright © 2012-2021 FLTR Developers et al.; © 2025 hapepo23

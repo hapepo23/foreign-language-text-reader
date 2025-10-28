@@ -569,7 +569,7 @@ public class Utilities {
 			Utilities.openURLInDefaultBrowser("https://opensource.org/licenses/MIT");
 			Utilities.showAboutDialog();
 		} else if (result == 1) {
-			Utilities.openURLInDefaultBrowser("https://github.com/hapepo23/foreign-language-text-reader/blob/master/FLTR_Documentation.pdf");
+			Utilities.openURLInDefaultBrowser("https://hapepo23.github.io/fltr/FLTR_Documentation.pdf");
 			Utilities.showAboutDialog();
 		}
 	}
