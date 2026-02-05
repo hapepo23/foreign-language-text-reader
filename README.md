@@ -39,9 +39,7 @@ You'll need an installed JRE (Java Runtime Engine) and the file "fltr.jar".
 
 ## Download
 
-- [Latest releases](https://github.com/hapepo23/foreign-language-text-reader/releases)
-
-Copyright © 2012-2021 FLTR Developers et al.; © 2025 hapepo23
+- [Latest release](https://sourceforge.net/projects/foreign-language-text-reader/files)
 
 -----
 
